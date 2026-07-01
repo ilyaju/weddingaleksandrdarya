@@ -1,0 +1,12 @@
+{
+  "name": "wedding-invitation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "serve -l ${PORT:-3000} .",
+    "start": "serve -l ${PORT:-3000} ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
